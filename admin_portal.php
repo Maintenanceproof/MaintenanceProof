@@ -10,9 +10,9 @@
     <!-- Box Icons  -->
     <link href='https://unpkg.com/boxicons@2.1.2/css/boxicons.min.css' rel='stylesheet'>
     <!-- Styles  -->
-    <link rel="shortcut icon" href="assets/img/logo1.png" type="image/x-icon">
+    <link rel="shortcut icon" href="logo1.png" type="image/x-icon">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
@@ -1014,7 +1014,7 @@
     </section>
 
     <!-- Link JS -->
-    <script src="assets/js/main.js"></script>
+    <script src="main.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 
